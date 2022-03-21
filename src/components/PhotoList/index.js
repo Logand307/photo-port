@@ -128,7 +128,7 @@ const PhotoList = ({ category }) => {
           <img
             src={require(`../../assets/small/${category}/${i}.jpg`)}
             alt={image.name}
-            className="img-thumbnail mx-1"
+            className="img-thumbnail mx-2"
             key={image.name}
           />
         ))}
