@@ -11,7 +11,7 @@ function About() {
         style={{ width: "100%" }}
         alt="cover"
       />
-      <div className="my-2">
+        <div className="my-2">
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
           bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus
